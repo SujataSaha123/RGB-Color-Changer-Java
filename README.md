@@ -9,7 +9,7 @@ I built this project as part of my Core Java learning journey.
 
 # Technologies Used
 - Java  
-- Swing (GUI components)  
+- Swing (GUI components) 
 - AWT (for layouts and events)  
 
 # To run
