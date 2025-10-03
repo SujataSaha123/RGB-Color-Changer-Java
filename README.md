@@ -4,7 +4,7 @@ I built this project as part of my Core Java learning journey.
 
 # Features 
 - Change panel background using buttons (Red, Green, Blue, Yellow, Cyan, Pink, Orange, Black).
-- Set a custom color by entering RGB values (0–255).
+- Set a custom color by entering RGB values (0-255).
 - Simple and beginner-friendly Java Swing implementation.
 
 # Technologies Used
